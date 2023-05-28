@@ -1,0 +1,22 @@
+.signup{
+    background-color: rgb(25, 25, 84);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 30vw; 
+    height: 60vh;
+    border-radius: 10%;
+    box-shadow: 50px 60px 70px rgb(32, 26, 37);
+    color: whitesmoke;
+  }
+  .main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    /* position: relative; */
+  }
+  /* .sign{
+    top: 0;
+  } */
